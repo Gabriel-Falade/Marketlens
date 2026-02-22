@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Next.js
+web/.next/
+web/out/
+
+# Expo / React Native
+client/.expo/
+client/dist/
+client/web-build/
+
+# Python
+backend/venv/
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+backend/.env
+
+# Environment files
+.env
+.env.local
+.env*.local
+web/.env.local
+
+# Build outputs
+build/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db

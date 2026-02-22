@@ -1,0 +1,430 @@
+{
+  "fao_west_africa": {
+    "city": "Lagos, Nigeria",
+    "region": "west_africa",
+    "items": {
+      "Imported Rice (50kg bag)": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.7176,
+            "country": "Benin",
+            "weight": 2.5
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.3546,
+            "country": "C\u00f4te d'Ivoire",
+            "weight": 0.5
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.6603,
+            "country": "Gambia",
+            "weight": 0.4
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.3742,
+            "country": "Mali",
+            "weight": 0.8
+          }
+        ],
+        "latest_price_usd_per_kg": 0.6035,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Fresh Tomatoes (Basket)": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.7765,
+            "country": "Benin",
+            "weight": 2.5
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 1.8,
+            "country": "Cabo Verde",
+            "weight": 0.2
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.8526,
+            "country": "C\u00f4te d'Ivoire",
+            "weight": 0.5
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.8148,
+            "country": "Mali",
+            "weight": 0.8
+          }
+        ],
+        "latest_price_usd_per_kg": 0.8448,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Beef (1kg)": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 12.8632,
+            "country": "Cabo Verde",
+            "weight": 0.2
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 5.4194,
+            "country": "Gambia",
+            "weight": 0.4
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 1.9772,
+            "country": "Mali",
+            "weight": 0.8
+          }
+        ],
+        "latest_price_usd_per_kg": 4.5158,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Suya (100g skewer)": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 6.3851,
+            "country": "Cabo Verde",
+            "weight": 0.2
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 4.8097,
+            "country": "Mali",
+            "weight": 0.8
+          }
+        ],
+        "latest_price_usd_per_kg": 5.1248,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Onions per kg": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 1.1131,
+            "country": "Cabo Verde",
+            "weight": 0.2
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.8254,
+            "country": "Mali",
+            "weight": 0.8
+          }
+        ],
+        "latest_price_usd_per_kg": 0.8829,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Eggs (crate of 30)": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.7434,
+            "country": "Mali",
+            "weight": 0.8
+          }
+        ],
+        "latest_price_usd_per_kg": 0.7434,
+        "latest_year": 2024,
+        "trend": "stable"
+      }
+    }
+  },
+  "fao_india": {
+    "city": "Delhi, India",
+    "region": "india",
+    "items": {
+      "Eggs (dozen)": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 2.9915,
+            "country": "Bhutan",
+            "weight": 1.0
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 2.4782,
+            "country": "Nepal",
+            "weight": 1.0
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 2.2385,
+            "country": "Sri Lanka",
+            "weight": 1.0
+          }
+        ],
+        "latest_price_usd_per_kg": 2.5694,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Onions per kg": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 1.0878,
+            "country": "Bhutan",
+            "weight": 1.0
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.4352,
+            "country": "Nepal",
+            "weight": 1.0
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.4814,
+            "country": "Pakistan",
+            "weight": 1.0
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.6888,
+            "country": "Sri Lanka",
+            "weight": 1.0
+          }
+        ],
+        "latest_price_usd_per_kg": 0.6733,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Basmati Rice (1kg)": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 1.9279,
+            "country": "Bhutan",
+            "weight": 1.0
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.3073,
+            "country": "Nepal",
+            "weight": 1.0
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 1.0224,
+            "country": "Pakistan",
+            "weight": 1.0
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.382,
+            "country": "Sri Lanka",
+            "weight": 1.0
+          }
+        ],
+        "latest_price_usd_per_kg": 0.9099,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Fresh Tomatoes (Basket)": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 1.0538,
+            "country": "Bhutan",
+            "weight": 1.0
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.4792,
+            "country": "Nepal",
+            "weight": 1.0
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.3791,
+            "country": "Pakistan",
+            "weight": 1.0
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.8003,
+            "country": "Sri Lanka",
+            "weight": 1.0
+          }
+        ],
+        "latest_price_usd_per_kg": 0.6781,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Chole Bhature (plate)": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 1.062,
+            "country": "Nepal",
+            "weight": 1.0
+          }
+        ],
+        "latest_price_usd_per_kg": 1.062,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Chicken (1kg)": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 2.2862,
+            "country": "Nepal",
+            "weight": 1.0
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 3.5042,
+            "country": "Sri Lanka",
+            "weight": 1.0
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 5.6142,
+            "country": "Sri Lanka",
+            "weight": 1.0
+          }
+        ],
+        "latest_price_usd_per_kg": 3.8015,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Baguette": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.3531,
+            "country": "Nepal",
+            "weight": 1.0
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.3203,
+            "country": "Pakistan",
+            "weight": 1.0
+          }
+        ],
+        "latest_price_usd_per_kg": 0.3367,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Eggs (crate of 30)": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 1.9872,
+            "country": "Sri Lanka",
+            "weight": 1.0
+          }
+        ],
+        "latest_price_usd_per_kg": 1.9872,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Beef (1kg)": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 6.0397,
+            "country": "Sri Lanka",
+            "weight": 1.0
+          },
+          {
+            "year": 2024,
+            "price_usd_per_kg": 2.822,
+            "country": "Sri Lanka",
+            "weight": 1.0
+          }
+        ],
+        "latest_price_usd_per_kg": 4.4308,
+        "latest_year": 2024,
+        "trend": "stable"
+      }
+    }
+  },
+  "fao_france": {
+    "city": "Metz, France",
+    "region": "france",
+    "items": {
+      "Eggs (dozen)": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 1.8267,
+            "country": "France",
+            "weight": 1.0
+          }
+        ],
+        "latest_price_usd_per_kg": 1.8267,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Beef (1kg)": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 5.5497,
+            "country": "France",
+            "weight": 1.0
+          }
+        ],
+        "latest_price_usd_per_kg": 5.5497,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Whole Chicken": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 1.3362,
+            "country": "France",
+            "weight": 1.0
+          }
+        ],
+        "latest_price_usd_per_kg": 1.3362,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Fresh Tomatoes (Basket)": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.9316,
+            "country": "France",
+            "weight": 1.0
+          }
+        ],
+        "latest_price_usd_per_kg": 0.9316,
+        "latest_year": 2024,
+        "trend": "stable"
+      },
+      "Baguette": {
+        "entries": [
+          {
+            "year": 2024,
+            "price_usd_per_kg": 0.2313,
+            "country": "France",
+            "weight": 1.0
+          }
+        ],
+        "latest_price_usd_per_kg": 0.2313,
+        "latest_year": 2024,
+        "trend": "stable"
+      }
+    }
+  }
+}

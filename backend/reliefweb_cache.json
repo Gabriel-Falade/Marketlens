@@ -1,0 +1,38 @@
+{
+  "nigeria_disasters": {
+    "cached_at": "2026-02-22T13:42:18.223718",
+    "data": {
+      "city": "Lagos, Nigeria",
+      "country": "nigeria",
+      "disasters": [],
+      "highest_multiplier": 1.0,
+      "affected_categories": [],
+      "has_active_disaster": false,
+      "cached_at": "2026-02-22T13:42:18.223701"
+    }
+  },
+  "india_disasters": {
+    "cached_at": "2026-02-22T13:42:26.541935",
+    "data": {
+      "city": "Delhi, India",
+      "country": "india",
+      "disasters": [],
+      "highest_multiplier": 1.0,
+      "affected_categories": [],
+      "has_active_disaster": false,
+      "cached_at": "2026-02-22T13:42:26.541917"
+    }
+  },
+  "france_disasters": {
+    "cached_at": "2026-02-22T13:42:35.316579",
+    "data": {
+      "city": "Metz, France",
+      "country": "france",
+      "disasters": [],
+      "highest_multiplier": 1.0,
+      "affected_categories": [],
+      "has_active_disaster": false,
+      "cached_at": "2026-02-22T13:42:35.316565"
+    }
+  }
+}

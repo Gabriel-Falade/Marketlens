@@ -1,0 +1,77 @@
+{
+  "NGA_indicators": {
+    "cached_at": "2026-02-22T07:03:07.761613",
+    "data": {
+      "country_code": "NGA",
+      "cpi": [
+        {
+          "year": "2024",
+          "value": 33.2421
+        },
+        {
+          "year": "2023",
+          "value": 24.6596
+        },
+        {
+          "year": "2022",
+          "value": 18.8472
+        }
+      ],
+      "food_inflation": [],
+      "latest_cpi": 33.2421,
+      "latest_food_inflation": 0.0,
+      "baseline_multiplier": 1.0,
+      "cached_at": "2026-02-22T07:03:07.761589"
+    }
+  },
+  "IND_indicators": {
+    "cached_at": "2026-02-22T07:09:38.371163",
+    "data": {
+      "country_code": "IND",
+      "cpi": [
+        {
+          "year": "2024",
+          "value": 4.953
+        },
+        {
+          "year": "2023",
+          "value": 5.6491
+        },
+        {
+          "year": "2022",
+          "value": 6.699
+        }
+      ],
+      "food_inflation": [],
+      "latest_cpi": 4.953,
+      "latest_food_inflation": 0.0,
+      "baseline_multiplier": 1.0,
+      "cached_at": "2026-02-22T07:09:38.371153"
+    }
+  },
+  "FRA_indicators": {
+    "cached_at": "2026-02-22T07:53:14.988467",
+    "data": {
+      "country_code": "FRA",
+      "cpi": [
+        {
+          "year": "2024",
+          "value": 1.999
+        },
+        {
+          "year": "2023",
+          "value": 4.8784
+        },
+        {
+          "year": "2022",
+          "value": 5.2224
+        }
+      ],
+      "food_inflation": [],
+      "latest_cpi": 1.999,
+      "latest_food_inflation": 0.0,
+      "baseline_multiplier": 1.0,
+      "cached_at": "2026-02-22T07:53:14.988442"
+    }
+  }
+}
