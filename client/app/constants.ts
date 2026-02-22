@@ -2,7 +2,7 @@
 // iOS Simulator  → http://localhost:5000
 // Android Emulator → http://10.0.2.2:5000
 // Physical device  → http://<YOUR_MACHINE_IP>:5000
-export const API_BASE = 'https://tasty-places-clean.loca.lt';
+export const API_BASE = 'https://long-moons-switch.loca.lt';
 
 // Required to bypass localtunnel's browser warning page
 export const TUNNEL_HEADERS: Record<string, string> = {
